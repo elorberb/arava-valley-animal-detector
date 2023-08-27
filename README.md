@@ -17,10 +17,15 @@ This repository hosts the Python notebooks and codebase for the ambitious projec
 - Directional Analysis to detect animals' movement trends.
 - User-friendly tools hosted on Colab notebooks for easy data processing and predictions.
 
-## Links:
-- [Evaluation Notebook](#)
-- [Pipeline](#)
-- [In/Out Classifier](#)
+## Google Colab Links:
+- [Trainning Detection Models Notebook](https://drive.google.com/file/d/1l25jVTQnvUVW4nDQNq7HEezdCjxVc1ij/view?usp=sharing)
+- [Evaluation Notebook](https://colab.research.google.com/drive/1x1zgX3QosNlsii1PzyybzUp8N7MZeA6h?usp=sharing)
+- [Detection Pipeline](https://colab.research.google.com/drive/1whKFqemUnQkQIFYNDz2oeygS108iQtK2?usp=sharing)
+- [In/Out Classifier](https://drive.google.com/file/d/1FW8zJHYYG7Vn9aky9Yl1drhRmJpzjfqG/view?usp=sharing)
 
+- **Notes**
+- Please log in with your BGU credentials to access the Google Colab notebooks.
+- Due to the large file size (with embedded images), we didn't upload the training notebook directly. However, you can view it in the Training Detection Models Notebook.
+- 
 ## Acknowledgments:
 Thanks to Dr. Nitzan Segev and her team from Dead Sea & Arava Science Center, Danny Bickson from Visual Layer, and the creators of ImageAI, fastai, SAM, and ChatGPT.
