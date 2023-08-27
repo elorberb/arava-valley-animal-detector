@@ -8,7 +8,6 @@ This repository hosts the Python notebooks and codebase for the ambitious projec
 
 **Inside this repo:**
 - An image processing tool designed for both academic researchers and amateur nature enthusiasts.
-- An extensive dataset categorized by seasons with detailed annotations.
 - A streamlined Colab-based pipeline that allows for effortless data import via Dropbox and processes images to output detailed detections.
 - A directional analysis tool to discern an animal's movement direction across the Arava Valley border fence.
 
@@ -23,9 +22,9 @@ This repository hosts the Python notebooks and codebase for the ambitious projec
 - [Detection Pipeline](https://colab.research.google.com/drive/1whKFqemUnQkQIFYNDz2oeygS108iQtK2?usp=sharing)
 - [In/Out Classifier](https://drive.google.com/file/d/1FW8zJHYYG7Vn9aky9Yl1drhRmJpzjfqG/view?usp=sharing)
 
-- **Notes**
+**Notes**
 - Please log in with your BGU credentials to access the Google Colab notebooks.
 - Due to the large file size (with embedded images), we didn't upload the training notebook directly. However, you can view it in the Training Detection Models Notebook.
-- 
+
 ## Acknowledgments:
 Thanks to Dr. Nitzan Segev and her team from Dead Sea & Arava Science Center, Danny Bickson from Visual Layer, and the creators of ImageAI, fastai, SAM, and ChatGPT.
